@@ -1,0 +1,27 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:Double x:Key="FontsizeBasico">18.0</system:Double>
+    <Thickness x:Key="MarginBasico" Left="5" Top="10" Right="5" Bottom="10" />
+    
+    <Style BasedOn="{StaticResource {x:Type TextBox}}" TargetType="TextBox">
+        <Setter Property="FontSize" Value="{StaticResource FontsizeBasico}"></Setter>
+        <Setter Property="Margin" Value="{StaticResource MarginBasico}"></Setter>
+    </Style>
+    
+    <Style  BasedOn="{StaticResource {x:Type TextBlock}}" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="{StaticResource FontsizeBasico}"></Setter>
+        <Setter Property="Margin" Value="{StaticResource MarginBasico}"></Setter>   
+    </Style>
+    
+    <Style  BasedOn="{StaticResource {x:Type Button}}" TargetType="Button">
+        <Setter Property="FontSize" Value="{StaticResource FontsizeBasico}"></Setter>
+        <Setter Property="Margin" Value="{StaticResource MarginBasico}"></Setter>
+    </Style>
+    
+    <Style x:Key="Encabezado"  BasedOn="{StaticResource {x:Type TextBlock}}" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="28"></Setter>
+        <Setter Property="Margin" Value="20 5 5 40 "></Setter>   
+    </Style>
+</ResourceDictionary>

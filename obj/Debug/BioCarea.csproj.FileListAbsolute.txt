@@ -1,0 +1,15 @@
+C:\Users\ELIEZER\RiderProjects\BioCarea\bin\Debug\BioCarea.exe.config
+C:\Users\ELIEZER\RiderProjects\BioCarea\bin\Debug\BioCarea.exe
+C:\Users\ELIEZER\RiderProjects\BioCarea\bin\Debug\BioCarea.pdb
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.csprojAssemblyReference.cache
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\MainWindow.g.cs
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\App.g.cs
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea_MarkupCompile.cache
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea_MarkupCompile.lref
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\MainWindow.baml
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.g.resources
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.Properties.Resources.resources
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.csproj.GenerateResource.cache
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.csproj.CoreCompileInputs.cache
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.exe
+C:\Users\ELIEZER\RiderProjects\BioCarea\obj\Debug\BioCarea.pdb
